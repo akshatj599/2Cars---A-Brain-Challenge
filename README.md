@@ -1,5 +1,5 @@
 # 2Cars
- An arcade game, played by many across the globe, intended to improve one's reception, control and reflexes. Can be taken as a challenge. A simple working but its interesting quirks, makes it a fun game to play.
+ An arcade game, played by many across the globe, intended to improve one's reception, control and reflexes. Requires practice to master. Easy controls with interesting quirks, makes it a fun game to play.
 
 <B> Glimpse: </B>
 

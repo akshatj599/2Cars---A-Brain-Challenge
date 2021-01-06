@@ -3,9 +3,9 @@
 
 <B> Glimpse: </B>
 
-<img src="Screenshots/Main1.png" alt="2Cars 1" width="425" height="500"/> &nbsp; &nbsp; <img src="Screenshots/Main2.png" alt="2Cars 2" width="425" height="500"/>
+<img src="Screenshots/Main1.png" alt="2Cars 1" width="380" height="447"/> &nbsp; &nbsp; <img src="Screenshots/Main2.png" alt="2Cars 2" width="380" height="447"/>
 <br><br>
-<img src="Screenshots/Main4.png" alt="2Cars 3" width="425" height="500"/> &nbsp; &nbsp; <img src="Screenshots/Main5.png" alt="2Cars 4" width="425" height="500"/>
+<img src="Screenshots/Main4.png" alt="2Cars 3" width="380" height="447"/> &nbsp; &nbsp; <img src="Screenshots/Main5.png" alt="2Cars 4" width="380" height="447"/>
 
 <B> Development Info: </B>
 

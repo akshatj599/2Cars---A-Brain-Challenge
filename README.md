@@ -1,11 +1,11 @@
 # 2Cars
  An arcade game, played by many across the globe, intended to improve one's reception, control and reflexes. Requires practice to master. Easy controls with interesting quirks, makes it a fun game to play. Completely programmed from scratch. 
  
- Controls:
- LSHIFT: Change lane of left car
- RSHIFT: Change lane of right car
- ESC: Return
- SPACE: Start/Proceed (Only in static parts)
+<B> Controls: </B> <br>
+ LSHIFT: Change lane of left car <br>
+ RSHIFT: Change lane of right car <br>
+ ESC: Return <br>
+ SPACE: Start/Proceed (Only in static parts) <br>
 
 <B> Glimpse: </B>
 
